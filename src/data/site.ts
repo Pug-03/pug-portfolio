@@ -46,7 +46,7 @@ export const site = {
   name: "PUG",
   role: "Student Developer & Robotics Innovator",
   location: "Thailand",
-  github: "https://github.com/", // TODO: put your GitHub profile URL here
+  github: "https://github.com/Pug-03",
 
   bio: "A high school student and developer driven by the intersection of Artificial Intelligence, Computer Vision and Robotics. I build end-to-end innovations that bridge smart software with physical hardware — turning complex engineering ideas into functional, beautiful products.",
 
