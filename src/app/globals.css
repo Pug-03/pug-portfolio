@@ -311,6 +311,7 @@ img { display: block; max-width: 100%; }
 .lightbox__card { width: min(900px, 92vw); aspect-ratio: 1.414; position: relative; transform: scale(.9); transition: transform .45s cubic-bezier(.2,.8,.2,1); }
 .lightbox.on .lightbox__card { transform: none; }
 .lightbox__card .cert__inner { position: absolute; }
+.lightbox__card .cert__inner img { object-fit: contain; background: #000; }
 .lightbox__card .cert__title { font-size: clamp(26px, 4vw, 54px); }
 .lightbox p { color: var(--muted); }
 
